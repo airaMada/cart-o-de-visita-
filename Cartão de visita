@@ -1,0 +1,70 @@
+<!DOCTYPEhtml>
+
+<html lang="pt-BR">
+
+<cabeça>
+
+  <meta charset="UTF-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>cartão de visita</title>
+
+  
+
+  <!-- HTML -->
+
+  
+
+  <!-- Estilos personalizados -->
+
+  <link rel="stylesheet" href="style (6).css">
+
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</head>
+
+<corpo>
+
+  <div class="conteudo">
+
+    <img src="/perfil.jpg" class="img" width="200px" height="200px">
+
+    <hr>
+
+   <p class="nome">Maria Madalena</p>
+
+   <p class="contato">Contato:</p>
+
+   <ul>
+
+    <li class="tel"><ion-icon name="call"></ion-icon>(88)98125-5092</li>
+
+    <li class="email"><ion-icon name="mail"></ion-icon>mariamada496@gmail.com</li>
+
+   </ul>
+
+   
+
+  <div class="redes">
+
+   <p class="titulo">Redes Sociais:</p>
+
+   <a href="https://github.com/airaMada?tab=packages" class="git"><ion-icon name="logo-github"></ion-icon>Github</a><br >
+
+   <a href="https://www.linkedin.com/in/maria-madalena-60193b239" class="link"><ion-icon name="logo-linkedin"></ion-icon>LinkedIn</ a>
+
+   <hr>
+
+  </div>
+
+  </div>
+
+</body>
+
+</html>
+
