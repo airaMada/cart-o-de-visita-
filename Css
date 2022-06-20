@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Raleway:wght@300&display=swap');
+
+corpo {
+
+  cor de fundo: #A8DEA2;
+
+}
+
+.conteudo{
+
+  cor de fundo: #5BA953;
+
+  família de fontes: 'Noto Serif', serif;
+
+  família de fontes: 'Raleway', sem serifa;
+
+  largura máxima: 400px;
+
+  margem: 100px automático;
+
+}
+
+.img{
+
+  margem esquerda: 25%;
+
+  margem superior: 10%;
+
+  raio de borda: 50%;
+
+}
+
+.nome{
+
+  alinhamento de texto: centro;
+
+  tamanho da fonte: 30pt;
+
+}
+
+.contato{
+
+  margem esquerda: 35%;
+
+  margem superior: 10%;
+
+  tamanho da fonte: 20pt;
+
+}
+
+.tel{
+
+  margem esquerda: 20%;
+
+  tamanho da fonte: 15pt;
+
+  tipo de estilo de lista: nenhum;
+
+}
+
+.o email{
+
+  margem esquerda: 10%;
+
+  tamanho da fonte: 15pt;
+
+  tipo de estilo de lista: nenhum;
+
+}
+
+.título{
+
+  margem esquerda: 30%;
+
+  margem superior: 15%;
+
+  tamanho da fonte: 20pt;
+
+  
+
+}
+
+.git{
+
+  margem esquerda: 40%;
+
+  tamanho da fonte: 15pt;
+
+}
+
+.link{
+
+  margem esquerda: 40%;
+
+  tamanho da fonte: 15pt;
+
+ 
+
+}
+
